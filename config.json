@@ -1,0 +1,11 @@
+{
+    "api_key": "PIMorSuK_zQp1sSLEq32VDCP9i5P1ftNSMbeohLI",
+    "api_secret": "apR3E01gsOvIW4QSwzTfQSVhSzvSQEYeBnqk8yzf",
+    "subaccount": "re_srm_coac",
+    "bot_name": "Test1",
+    "pair": "SRM/USD",
+    "asset_name": "SRM",
+    "qoute_currency": "USD",
+    "rebalance_target_value": "100",
+    "rebalance_minimum_range": "5"
+}

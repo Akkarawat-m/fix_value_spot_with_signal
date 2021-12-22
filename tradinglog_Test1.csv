@@ -1,0 +1,7 @@
+id,timestamp,time,pair,side,price,qty,fee,timeseries,bot_name,subaccount,cost
+3819724565,2021-09-16,21:15:43,SRM/USD,buy,10.388,1.0,0.0,5595,Test1,re_srm_coac,10.388
+3915027179,2021-09-22,00:58:55,SRM/USD,sell,7.507,34.0,0.16973327,2938,Test1,re_srm_coac,255.238
+3915027177,2021-09-22,00:58:55,SRM/USD,sell,7.51,13.0,0.06492395,2938,Test1,re_srm_coac,97.63
+3918206898,2021-09-22,03:43:01,SRM/USD,sell,7.138,6.0,0.02848062,3103,Test1,re_srm_coac,42.828
+3920291810,2021-09-22,04:33:00,SRM/USD,sell,7.224,4.0,0.01921584,3153,Test1,re_srm_coac,28.896
+5740098728,2021-12-20,23:16:37,SRM/USD,buy,3.265,30.0,0.01959,Test1,re_srm_coac,97.95
